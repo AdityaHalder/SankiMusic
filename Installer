@@ -6,6 +6,7 @@ ffmpeg-python
 gitpython
 hachoir
 heroku3
+httpx==0.20.0
 lyricsgenius
 motor==3.0.0
 pillow
