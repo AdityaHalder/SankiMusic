@@ -20,7 +20,7 @@ requests
 spotipy
 tgcrypto
 numpy
-git+https://github.com/adityaxserver/downloader
+git+https://github.com/KaalOS/downloader
 git+https://github.com/Kaal-xD/kaal-search
 git+https://github.com/Kaal-xD/kaal-speed-test
 git+https://github.com/Kaal-xD/kaal-search-python
